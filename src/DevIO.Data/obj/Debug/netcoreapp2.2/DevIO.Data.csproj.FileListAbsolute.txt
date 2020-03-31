@@ -1,0 +1,22 @@
+C:\Users\Casa8\Desktop\Anderson\Cursos\EduardoPires\Formação Full Stack Developer\REST com ASP.NET Core WebAPI\02 - API Completa\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.deps.json
+C:\Users\Casa8\Desktop\Anderson\Cursos\EduardoPires\Formação Full Stack Developer\REST com ASP.NET Core WebAPI\02 - API Completa\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.dll
+C:\Users\Casa8\Desktop\Anderson\Cursos\EduardoPires\Formação Full Stack Developer\REST com ASP.NET Core WebAPI\02 - API Completa\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.pdb
+C:\Users\Casa8\Desktop\Anderson\Cursos\EduardoPires\Formação Full Stack Developer\REST com ASP.NET Core WebAPI\02 - API Completa\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\Casa8\Desktop\Anderson\Cursos\EduardoPires\Formação Full Stack Developer\REST com ASP.NET Core WebAPI\02 - API Completa\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\Users\Casa8\Desktop\Anderson\Cursos\EduardoPires\Formação Full Stack Developer\REST com ASP.NET Core WebAPI\02 - API Completa\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csprojAssemblyReference.cache
+C:\Users\Casa8\Desktop\Anderson\Cursos\EduardoPires\Formação Full Stack Developer\REST com ASP.NET Core WebAPI\02 - API Completa\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfoInputs.cache
+C:\Users\Casa8\Desktop\Anderson\Cursos\EduardoPires\Formação Full Stack Developer\REST com ASP.NET Core WebAPI\02 - API Completa\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfo.cs
+C:\Users\Casa8\Desktop\Anderson\Cursos\EduardoPires\Formação Full Stack Developer\REST com ASP.NET Core WebAPI\02 - API Completa\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CopyComplete
+C:\Users\Casa8\Desktop\Anderson\Cursos\EduardoPires\Formação Full Stack Developer\REST com ASP.NET Core WebAPI\02 - API Completa\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.dll
+C:\Users\Casa8\Desktop\Anderson\Cursos\EduardoPires\Formação Full Stack Developer\REST com ASP.NET Core WebAPI\02 - API Completa\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.pdb
+C:\Users\Casa8\Desktop\Anderson\Cursos\EduardoPires\Formação Full Stack Developer\API\API Completa\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.deps.json
+C:\Users\Casa8\Desktop\Anderson\Cursos\EduardoPires\Formação Full Stack Developer\API\API Completa\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.dll
+C:\Users\Casa8\Desktop\Anderson\Cursos\EduardoPires\Formação Full Stack Developer\API\API Completa\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.pdb
+C:\Users\Casa8\Desktop\Anderson\Cursos\EduardoPires\Formação Full Stack Developer\API\API Completa\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\Casa8\Desktop\Anderson\Cursos\EduardoPires\Formação Full Stack Developer\API\API Completa\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\Users\Casa8\Desktop\Anderson\Cursos\EduardoPires\Formação Full Stack Developer\API\API Completa\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csprojAssemblyReference.cache
+C:\Users\Casa8\Desktop\Anderson\Cursos\EduardoPires\Formação Full Stack Developer\API\API Completa\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfoInputs.cache
+C:\Users\Casa8\Desktop\Anderson\Cursos\EduardoPires\Formação Full Stack Developer\API\API Completa\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfo.cs
+C:\Users\Casa8\Desktop\Anderson\Cursos\EduardoPires\Formação Full Stack Developer\API\API Completa\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CopyComplete
+C:\Users\Casa8\Desktop\Anderson\Cursos\EduardoPires\Formação Full Stack Developer\API\API Completa\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.dll
+C:\Users\Casa8\Desktop\Anderson\Cursos\EduardoPires\Formação Full Stack Developer\API\API Completa\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.pdb
